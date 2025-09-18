@@ -4,3 +4,4 @@ Indicaciones:
     pip install -r requirements.txt
 
 2. Hacer fork del repositorio
+3. Realizar push del repositorio
